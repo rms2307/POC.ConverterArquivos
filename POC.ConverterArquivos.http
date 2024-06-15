@@ -1,0 +1,6 @@
+@POC.ConverterArquivos_HostAddress = http://localhost:5221
+
+GET {{POC.ConverterArquivos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
